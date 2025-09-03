@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(147, 170, 254);
+}
+
+h1 {
+    font-family: "Comic Relief";
+    text-align: center;
+}
+
+td, th {
+    color: rgb(52, 48, 48);
+    font-family: "Comic Relief";
+    text-align: left;
+    padding: 9px;
+}
